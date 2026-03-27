@@ -16,7 +16,7 @@ public class TradingSystem {
             activatePowerPegMode(); 
         }
     }
-
+//testtttt 
     private static void activatePowerPegMode() {
         int orders = 0;
         while (true) {
@@ -25,4 +25,5 @@ public class TradingSystem {
             if (orders > 1000) break;
         }
     }
+    //hieunghia
 }
