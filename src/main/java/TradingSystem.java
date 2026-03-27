@@ -16,7 +16,7 @@ public class TradingSystem {
             activatePowerPegMode(); 
         }
     }
-
+//testttt
     private static void activatePowerPegMode() {
         int orders = 0;
         while (true) {
